@@ -1,6 +1,6 @@
 // Scout Handebol - Service Worker
 // v69
-const CACHE_NAME = 'scout-handebol-v69';
+const CACHE_NAME = 'scout-handebol-v70';
 const URLS_TO_CACHE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {
